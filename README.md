@@ -1,5 +1,5 @@
 # Youtube Thumbnail API
-Get all size and quality thumbnail of Youtube Video from URL
+Open Source Javascript Framework to Get all size and quality thumbnail of Youtube Video from URL
 
 ## Installation
 
