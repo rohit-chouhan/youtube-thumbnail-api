@@ -22,7 +22,7 @@ $ npm i youtube-thumbnail-api
 Method | Size
 --------------------------------------|----------------------------------------
 ytubethumb.set("video-url") | Pass Youtube Video Inside of function to set Youtube Video
-ytubethumb.default() | 120x90
+ytubethumb.thumb() | 120x90
 ytubethumb.mq() | 320x180
 ytubethumb.hq() | 480x460
 ytubethumb.sd() | 640x480
@@ -33,7 +33,7 @@ ytubethumb.max() | 1280x720 & 1920x1080
 //set youtube video 
 ytubethumb.set("https://www.youtube.com/watch?v=olm8XOFPSHQ");
 
-console.log(ytubethumb.default());
+console.log(ytubethumb.thumb());
 //return 120x90 size thumbnail image
 
 console.log(ytubethumb.mq());
