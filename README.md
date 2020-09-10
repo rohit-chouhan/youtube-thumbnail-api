@@ -19,14 +19,14 @@ $ npm install @youtube-thumbnail-api
 ```
 ### Documentation
 
-Method | Output
+Method | Size
 --------------------------------------|----------------------------------------
 ytubethumb.set("video-url") | Pass Youtube Video Inside of function to set Youtube Video
-ytubethumb.default() | ![default](https://img.youtube.com/vi/olm8XOFPSHQ/default.jpg)
-ytubethumb.hq() | ![default](https://img.youtube.com/vi/olm8XOFPSHQ/hqdefault.jpg)
-ytubethumb.mq() | ![default](https://img.youtube.com/vi/olm8XOFPSHQ/mqdefault.jpg)
-ytubethumb.sd() | ![default](https://img.youtube.com/vi/olm8XOFPSHQ/sddefault.jpg)
-ytubethumb.max() | ![default](https://img.youtube.com/vi/olm8XOFPSHQ/maxresdefault.jpg)
+ytubethumb.default() | 120x90
+ytubethumb.mq() | 320x180
+ytubethumb.hq() | 480x460
+ytubethumb.sd() | 640x480
+ytubethumb.max() | 1280x720 & 1920x1080
 
 ### Developers
 ![Rohit](http://graph.facebook.com/100004453384015/picture?type=square)\
