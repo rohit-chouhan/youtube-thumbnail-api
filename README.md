@@ -53,7 +53,6 @@ console.log(ytubethumb.max());
 ![Rohit](http://graph.facebook.com/100004453384015/picture?type=square)\
 Developed by [Rohit Chouhan](https://rohitchouhan.com),  MIT License
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)\
 [![GithHub](https://img.shields.io/badge/Developed%20By-%40github%2Frohit--chouhan-green)](https://github.com/rohit-chouhan)
 [![Facebook](https://img.shields.io/badge/Facebook-%40itsrohitofficialprofile-blue)](https://facebook.com/itsrohitofficialprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-%40itsrealrohit-blue)](https://twitter.com/itsrealrohit)
