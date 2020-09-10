@@ -34,19 +34,19 @@ ytubethumb.max() | 1280x720 & 1920x1080
 ytubethumb.set("https://www.youtube.com/watch?v=olm8XOFPSHQ");
 
 console.log(ytubethumb.default());
-//return 120x90 size thubnail image
+//return 120x90 size thumbnail image
 
 console.log(ytubethumb.mq());
-//return 320x180 size thubnail image
+//return 320x180 size thumbnail image
 
 console.log(ytubethumb.hq());
-//return 480x460 size thubnail image
+//return 480x460 size thumbnail image
 
 console.log(ytubethumb.sd());
-//return 640x480 size thubnail image
+//return 640x480 size thumbnail image
 
 console.log(ytubethumb.max());
-//return 1280x720 & 1920x1080 size thubnail image
+//return 1280x720 & 1920x1080 size thumbnail image
 ```
 
 ### Developers
