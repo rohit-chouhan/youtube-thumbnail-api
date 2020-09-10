@@ -19,5 +19,5 @@
     "url": "https://github.com/rohit-chouhan/youtube-thumbnail-api/issues"           
  },                                                                        
   "homepage": "https://github.com/rohit-chouhan/youtube-thumbnail-api#readme",      
-  "publishConfig": { "registry": "https://npm.pkg.github.com/@rohit-chouhan" }    
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }    
   }
