@@ -2,7 +2,7 @@
  "name": "youtube-thumbnail-api",                                    
  "version": "1.0.0",                                                    
  "description": "Open Source Javascript Framework to Get all size and quality thumbnail of Youtube Video from URL",                             
- "main": "api,js",                                                
+ "main": "api.js",                                                
  "scripts": {                                                             
    "test": "echo \"Error: no test specified\" && exit 1"              
  },                                                                         
