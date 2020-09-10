@@ -28,6 +28,27 @@ ytubethumb.hq() | 480x460
 ytubethumb.sd() | 640x480
 ytubethumb.max() | 1280x720 & 1920x1080
 
+### Sample Code
+```js
+//set youtube video 
+ytubethumb.set("https://www.youtube.com/watch?v=olm8XOFPSHQ");
+
+console.log(ytubethumb.default());
+//return 120x90 size thubnail image
+
+console.log(ytubethumb.mq());
+//return 320x180 size thubnail image
+
+console.log(ytubethumb.hq());
+//return 480x460 size thubnail image
+
+console.log(ytubethumb.sd());
+//return 640x480 size thubnail image
+
+console.log(ytubethumb.max());
+//return 1280x720 & 1920x1080 size thubnail image
+```
+
 ### Developers
 ![Rohit](http://graph.facebook.com/100004453384015/picture?type=square)\
 Developed by [Rohit Chouhan](https://rohitchouhan.com),  MIT License
