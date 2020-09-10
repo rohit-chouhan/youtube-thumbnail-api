@@ -15,7 +15,7 @@ https://cdn.jsdelivr.net/npm/youtube-thumbnail-api/api.js
 ```
 `with NPM`
 ```sh
-$ npm install @youtube-thumbnail-api
+$ npm i youtube-thumbnail-api
 ```
 ### Documentation
 
