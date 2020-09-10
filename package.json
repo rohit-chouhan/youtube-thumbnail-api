@@ -1,6 +1,6 @@
 {      
  "name": "youtube-thumbnail-api",                                    
- "version": "1.0.0",                                                    
+ "version": "1.0.2",                                                    
  "description": "Open Source Javascript Framework to Get all size and quality thumbnail of Youtube Video from URL",                             
  "main": "api.js",                                                
  "scripts": {                                                             
@@ -19,5 +19,5 @@
     "url": "https://github.com/rohit-chouhan/youtube-thumbnail-api/issues"           
  },                                                                        
   "homepage": "https://github.com/rohit-chouhan/youtube-thumbnail-api#readme",      
-  "_publishConfig": { "registry": "https://npm.pkg.github.com/" }    
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@rohit-chouhan" }    
   }
